@@ -1,0 +1,14 @@
+.installed.cfg
+bin
+develop-eggs
+eggs
+parts
+.env
+*.pyc
+*.swp
+*.db
+.idea
+ve
+env
+celerybeat.pid
+core/static/scripts/node_modules

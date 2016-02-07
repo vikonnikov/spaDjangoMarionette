@@ -1,0 +1,14 @@
+{
+  "name": "requirejs-handlebars",
+  "homepage": "https://github.com/jfparadis/requirejs-handlebars",
+  "_release": "76fcaeb4d9",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "76fcaeb4d9b13f3e8556a3fc0a4e8b8ee1328030"
+  },
+  "_source": "https://github.com/jfparadis/requirejs-handlebars.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/jfparadis/requirejs-handlebars.git",
+  "_direct": true
+}

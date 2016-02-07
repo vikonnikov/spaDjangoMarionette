@@ -1,0 +1,17 @@
+{% load staticfiles %}
+
+<html>
+	<head>
+		<link href="{% static 'css/bootstrap.css' %}" rel="stylesheet">
+		<link href="{% static 'css/navigation.css' %}" rel="stylesheet">
+	</head>
+	<body>
+		<div class="ui-layout-north">
+			<nav class="navbar navbar-inverse" id="nav-viewport"></nav>
+		</div>
+		
+		<div id="app-viewport" class="ui-layout-center"></div>
+	</body>
+
+	<script data-main="{% static 'scripts/config.js' %}"" src="{% static 'bower_components/requirejs/require.js' %}"></script>
+</html>
